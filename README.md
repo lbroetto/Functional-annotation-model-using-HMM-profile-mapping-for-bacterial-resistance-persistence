@@ -21,8 +21,8 @@ These libraries were developed and validated in the study:
 
 # Repository Contents
 pHMM Libraries Included:
-Resistance-pHMM-library_72.hmm - Profile HMMs for antibiotic resistance-associated protein families. Includes ABC transporters, efflux pumps, beta-lactamases, and other resistance determinants curated from experimentally validated resistance protein families.
-Persitence-pHMM-library_23.hmm - Profile HMMs for persistence/tolerance-associated protein families Includes toxin-antitoxin systems, stress response regulators, and dormancy-related proteins compiled from known curated persistence mechanisms across bacterial species.
+1. Resistance-pHMM-library_72.hmm - Profile HMMs for antibiotic resistance-associated protein families. Includes ABC transporters, efflux pumps, beta-lactamases, and other resistance determinants curated from experimentally validated resistance protein families.
+2. Persitence-pHMM-library_23.hmm - Profile HMMs for persistence/tolerance-associated protein families Includes toxin-antitoxin systems, stress response regulators, and dormancy-related proteins compiled from known curated persistence mechanisms across bacterial species.
 
 # Usage Instructions
 1. Prerequisites
