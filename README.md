@@ -30,9 +30,9 @@ Install HMMER 3.4 from http://hmmer.org/
 HMMER Documentation: http://hmmer.org/documentation.html
 
 2. Basic Search Command:
-# For resistance protein identification
+- For resistance protein identification
 hmmsearch --tblout resistance_results.txt -E 1e-03 --max Resistance-pHMM-library_72.hmm your_proteome.faa
-# For persistence protein identification  
+- For persistence protein identification  
 hmmsearch --tblout persistence_results.txt -E 1e-03 --max Persitence-pHMM-library_23.hmm your_proteome.faa
 
 # For Reproducibility and Reuse:
