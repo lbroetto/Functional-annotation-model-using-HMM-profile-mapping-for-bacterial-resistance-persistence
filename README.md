@@ -41,17 +41,7 @@ $ hmmsearch --tblout <output_file.txt> -E 1e-03 --max <library.hmm> <proteome.fa
 Execution: this command was run independently for each combination of pHMM library (resistance, persistence) and each of the eight predicted proteomes analized on project, generating 16 individual output files.
 
 # Expected Output Format
-- The tabular output includes:
-Target sequence identifier
-
-Query pHMM identifier
-E-value (statistical significance)
-
-Bit score (alignment quality)
-
-Domain boundaries
-
-Alignment coordinate
+- The tabular output includes: Target sequence identifier, Query pHMM identifier, E-value (statistical significance), Bit score (alignment quality), Domain boundaries, Alignment coordinate
 
 # Statistical Validation Parameters
 - Search Parameters Used in Original Study:
