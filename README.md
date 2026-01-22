@@ -43,10 +43,14 @@ Execution: this command was run independently for each combination of pHMM libra
 # Expected Output Format
 - The tabular output includes:
 Target sequence identifier
+
 Query pHMM identifier
 E-value (statistical significance)
+
 Bit score (alignment quality)
+
 Domain boundaries
+
 Alignment coordinate
 
 # Statistical Validation Parameters
