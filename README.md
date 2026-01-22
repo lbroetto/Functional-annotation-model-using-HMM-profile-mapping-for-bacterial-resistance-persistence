@@ -40,25 +40,6 @@ Search command: the search was executed with stringent parameters to ensure high
 $ hmmsearch --tblout <output_file.txt> -E 1e-03 --max <library.hmm> <proteome.faa>
 Execution: this command was run independently for each combination of pHMM library (resistance, persistence) and each of the eight predicted proteomes analized on project, generating 16 individual output files.
 
-# Output Processing Example:  
-
-import pandas as pd
-
-# Parse HMMER tabular output
-columns = ['target', 'accession', 'query', 'accession_q', 'E-value', 
-           'score', 'bias', 'domain_E', 'domain_score', 'domain_bias',
-           'exp', 'reg', 'clu', 'ov', 'env', 'dom', 'rep', 'inc']
-
-results = pd.read_csv('resistance_results.txt', 
-                      comment='#',
-                      delim_whitespace=True,
-                      names=columns,
-                      header=None)
-
-# Filter significant hits (E-value ≤ 1e-03, coverage ≥ 50%)
-significant = results[results['E-value'] <= 1e-03]
-print(f"Significant resistance hits: {len(significant)}")
-
 # Statistical Validation Parameters
 - Search Parameters Used in Original Study:
 E-value threshold: 1e-03 (statistical significance cutoff)
