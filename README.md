@@ -30,17 +30,17 @@ Install HMMER 3.4 from http://hmmer.org/
 HMMER Documentation: http://hmmer.org/documentation.html
 
 2. Basic Search Command:
-- For resistance protein identification
+- For resistance protein identification  
 $ hmmsearch --tblout resistance_results.txt -E 1e-03 --max Resistance-pHMM-library_72.hmm your_proteome.faa
 - For persistence protein identification  
 $ hmmsearch --tblout persistence_results.txt -E 1e-03 --max Persitence-pHMM-library_23.hmm your_proteome.faa
 
 # For Reproducibility and Reuse:
-Search command: the search was executed with stringent parameters to ensure high-confidence hits:
-hmmsearch --tblout <output_file.txt> -E 1e-03 --max <library.hmm> <proteome.faa>
+Search command: the search was executed with stringent parameters to ensure high-confidence hits:  
+$ hmmsearch --tblout <output_file.txt> -E 1e-03 --max <library.hmm> <proteome.faa>
 Execution: this command was run independently for each combination of pHMM library (resistance, persistence) and each of the eight predicted proteomes analized on project, generating 16 individual output files.
 
-# Output Processing Example:
+# Output Processing Example:  
 
 import pandas as pd
 
@@ -60,14 +60,14 @@ significant = results[results['E-value'] <= 1e-03]
 print(f"Significant resistance hits: {len(significant)}")
 
 # Statistical Validation Parameters
-Search Parameters Used in Original Study:
+- Search Parameters Used in Original Study:
 E-value threshold: 1e-03 (statistical significance cutoff)
 Database size correction: Applied via HMMER's built-in mechanisms
 Multiple testing adjustment: Bonferroni correction for proteome-wide searches
 Coverage requirement: ≥50% of pHMM model length
 Independent executions: 2 libraries × 8 proteomes = 16 searches
 
-Justification of Stringent Parameters:
+- Justification of Stringent Parameters:
 The 1e-03 E-value threshold was selected based on:
 Benchmarking studies showing optimal balance of sensitivity/specificity
 Domain architecture conservation in resistance/persistence proteins
