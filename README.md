@@ -66,13 +66,37 @@ Roary (for pangenome analysis)
 Custom Python/R scripts via Biopython/Bioconductor
 
 # License and Citation
-This project is licensed under the MIT License:
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-Please cite:
+### Please cite:
 - Primary Citation (this resource): Marcio Renan Santos Tavares, Nayara Andreo, Teresa de Lisieux Guedes Ferreira Lôbo, Chirles Araújo de França, Wagner Pereira Felix, Maria Aparecida Scatamburlo Moreira, Vasco Ariston de Carvalho Azevedo, Bertram Brenig, Leonardo Broetto, Mateus Matiuzzi da Costa (2026). Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. Network Modeling Analysis in Health Informatics and Bioinformatics (under review).
 - HMMER Software: Eddy, S. R. (2011). Accelerated Profile HMM Searches. PLoS Computational Biology, 7(10), e1002195. https://doi.org/10.1371/journal.pcbi.1002195
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+### Terms for Academic/Research Use:
+- Free to use, study, and modify
+- Must distribute derivatives under GPLv3
+- Must provide source code when distributing binaries
+- Must preserve copyright notices and license text
+
+### Terms for Commercial Use:
+For commercial applications or proprietary integration, please contact the author (Lbroetto@gmail.com, leonardo.broetto@arapiraca.ufal.br) to discuss alternative licensing options.
+
+**Full license text:** [LICENSE](LICENSE)
+
+### Copyright and Licensing
+- **Copyright Holder:** Leonardo Broetto  
+- **License:** GNU General Public License v3.0  
+- **Year:** 2026
+
+### Research Attribution
+The computational methodologies implemented in this software were developed as part of research activities conducted by Leonardo Broetto. Associated research work is linked to Universidade Federal de Alagoas.
+
+### Usage Terms
+- **Academic/Research Use:** Permitted under GPLv3 with mandatory citation
+- **Commercial Use:** Requires alternative licensing (contact author)
+- **Derivative Works:** Must be released under GPLv3
+
+### Contact for Licensing
+Leonardo Broetto  
+Lbroetto@gmail.com, leonardo.broetto@arapiraca.ufal.br
+(Associated with Universidade Federal de Alagoas)
