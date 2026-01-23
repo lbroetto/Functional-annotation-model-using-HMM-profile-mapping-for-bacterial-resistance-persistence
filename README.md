@@ -15,7 +15,7 @@ These libraries were developed and validated in the study:
 # Contact
 **Authors:** Leonardo Broetto
 **Correspondence:** Lbroetto@gmail.com, leonardo.broetto@arapiraca.ufal.br
-**Affiliation:** Núcleo de Pesquisa em Bioinformática e Filogenômica, Universidade Federal de Alagoas, Brasil
+**Affiliation:** Núcleo de Pesquisa em Bioinformática e Filogenômica (NPBF), Universidade Federal de Alagoas, Brasil
 
 ---
 
