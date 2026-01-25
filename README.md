@@ -1,5 +1,7 @@
 # Functional-annotation-model-using-HMM-profile-mapping-for-bacterial-resistance-persistence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18365249.svg)](https://doi.org/10.5281/zenodo.18365249)
+
 This repository contains custom pHMM (profile Hidden Markov Model) libraries for identifying bacterial resistance and persistence-associated protein domains. 
 
 Functional annotation model using (deep-dense) mapping guided by HMM (Hidden Markov Models) profiles (Rational design of functional annotation models based on pHMMs for genome prospecting).
