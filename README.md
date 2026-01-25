@@ -72,6 +72,23 @@ Custom Python/R scripts via Biopython/Bioconductor
 - Primary Citation (this resource): Marcio Renan Santos Tavares, Nayara Andreo, Teresa de Lisieux Guedes Ferreira Lôbo, Chirles Araújo de França, Wagner Pereira Felix, Maria Aparecida Scatamburlo Moreira, Vasco Ariston de Carvalho Azevedo, Bertram Brenig, Leonardo Broetto, Mateus Matiuzzi da Costa (2026). Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. Network Modeling Analysis in Health Informatics and Bioinformatics (under review).
 - HMMER Software: Eddy, S. R. (2011). Accelerated Profile HMM Searches. PLoS Computational Biology, 7(10), e1002195. https://doi.org/10.1371/journal.pcbi.1002195
 
+If you use this annotation model in your research, please cite:
+
+### For the pHMM libraries:
+```bibtex
+@software{broetto_phmm_libraries_2026,
+  author       = {Leonardo Broetto},
+  title        = {{pHMM libraries for bacterial resistance and persistence 
+                   protein annotation}},
+  month        = jan,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.18365249},
+  url          = {https://doi.org/10.5281/zenodo.18365249}
+}
+```
+
 This project is licensed under the **GNU General Public License v3.0**.
 
 ### Terms for Academic/Research Use:
