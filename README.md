@@ -1,4 +1,6 @@
-# Functional-annotation-model-using-HMM-profile-mapping-for-bacterial-resistance-persistence
+# Functional annotation model using HMM profile mapping for bacterial resistance-persistence
+
+[![Article](https://img.shields.io/badge/Article-Published-green.svg)](https://doi.org/10.1007/s13721-026-00767-7)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18365249.svg)](https://doi.org/10.5281/zenodo.18365249)
 
@@ -9,10 +11,12 @@ Source databases: two custom pHMM libraries were constructed de novo for this st
 
 Libraries were compiled by Leonardo Broetto (leonardo.broetto@arapiraca.ufal.br, Lbroetto@gmail.com)
 
-These libraries were developed and validated in the study:
+These libraries were developed and validated in the published manuscript:
 
-**Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking**  
-*Submitted to: Network Modeling Analysis in Health Informatics and Bioinformatics (Springer Nature)*
+**Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking**
+
+**Published in:** *Network Modeling Analysis in Health Informatics and Bioinformatics* (Springer Nature), 2026  
+**Article DOI:** [10.1007/s13721-026-00767-7](https://doi.org/10.1007/s13721-026-00767-7)
 
 # Contact
 **Authors:** Leonardo Broetto
@@ -69,7 +73,10 @@ Custom Python/R scripts via Biopython/Bioconductor
 
 # License and Citation
 ### Please cite:
-- Primary Citation (this resource): Marcio Renan Santos Tavares, Nayara Andreo, Teresa de Lisieux Guedes Ferreira Lôbo, Chirles Araújo de França, Wagner Pereira Felix, Maria Aparecida Scatamburlo Moreira, Vasco Ariston de Carvalho Azevedo, Bertram Brenig, Leonardo Broetto, Mateus Matiuzzi da Costa (2026). Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. Network Modeling Analysis in Health Informatics and Bioinformatics (under review).
+- Primary Citation: Broetto, L. (2026). Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. *Network Modeling Analysis in Health Informatics and Bioinformatics*. https://doi.org/10.1007/s13721-026-00767-7
+
+- Broetto, L. (2026). Functional annotation model using HMM profile mapping for bacterial resistance-persistence (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+
 - HMMER Software: Eddy, S. R. (2011). Accelerated Profile HMM Searches. PLoS Computational Biology, 7(10), e1002195. https://doi.org/10.1371/journal.pcbi.1002195
 
 If you use this annotation model in your research, please cite:
@@ -78,14 +85,13 @@ If you use this annotation model in your research, please cite:
 ```bibtex
 @software{broetto_phmm_libraries_2026,
   author       = {Leonardo Broetto},
-  title        = {{pHMM libraries for bacterial resistance and persistence 
-                   protein annotation}},
+  title        = {{Functional annotation model using HMM profile mapping for bacterial resistance-persistence}},
   month        = jan,
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.18365249},
-  url          = {https://doi.org/10.5281/zenodo.18365249}
+  doi          = {10.5281/zenodo.XXXXXXXX},
+  url          = {https://doi.org/10.5281/zenodo.XXXXXXXX}
 }
 ```
 
