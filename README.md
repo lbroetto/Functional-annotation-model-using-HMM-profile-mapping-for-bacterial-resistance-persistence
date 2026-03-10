@@ -2,7 +2,7 @@
 
 [![Article](https://img.shields.io/badge/Article-Published-green.svg)](https://doi.org/10.1007/s13721-026-00767-7)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18365249.svg)](https://doi.org/10.5281/zenodo.18365249)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18944678.svg)](https://doi.org/10.5281/zenodo.18944678)
 
 This repository contains custom pHMM (profile Hidden Markov Model) libraries for identifying bacterial resistance and persistence-associated protein domains. 
 
@@ -75,7 +75,7 @@ Custom Python/R scripts via Biopython/Bioconductor
 ### Please cite:
 - Primary Citation: Broetto, L. (2026). Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. *Network Modeling Analysis in Health Informatics and Bioinformatics*. https://doi.org/10.1007/s13721-026-00767-7
 
-- Broetto, L. (2026). Functional annotation model using HMM profile mapping for bacterial resistance-persistence (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXXX
+- Broetto, L. (2026). Functional annotation model using HMM profile mapping for bacterial resistance-persistence (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18944678
 
 - HMMER Software: Eddy, S. R. (2011). Accelerated Profile HMM Searches. PLoS Computational Biology, 7(10), e1002195. https://doi.org/10.1371/journal.pcbi.1002195
 
@@ -90,8 +90,8 @@ If you use this annotation model in your research, please cite:
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.XXXXXXXX},
-  url          = {https://doi.org/10.5281/zenodo.XXXXXXXX}
+  doi          = {10.5281/zenodo.18944678},
+  url          = {https://doi.org/10.5281/zenodo.18944678}
 }
 ```
 
