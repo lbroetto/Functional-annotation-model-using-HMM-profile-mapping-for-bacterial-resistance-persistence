@@ -73,7 +73,7 @@ Custom Python/R scripts via Biopython/Bioconductor
 
 # License and Citation
 ### Please cite:
-- Primary Citation: Broetto, L. (2026). Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. *Network Modeling Analysis in Health Informatics and Bioinformatics*. https://doi.org/10.1007/s13721-026-00767-7
+- Primary Citation: Exploring the Molecular Basis of Potassium Usnate Activity Against Staphylococcus warneri Persistence and Resistance Through Protein Interaction Networks and Molecular Docking. *Network Modeling Analysis in Health Informatics and Bioinformatics*. https://doi.org/10.1007/s13721-026-00767-7
 
 - Broetto, L. (2026). Functional annotation model using HMM profile mapping for bacterial resistance-persistence (v1.1.0) Version associated with published article [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.18944678
 
